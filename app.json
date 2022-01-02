@@ -1,0 +1,22 @@
+{
+    "name": "h7h8j9",
+    "description": "Deploy h7h8j9 on Heroku.",
+    "keywords": ["h7h8j9"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://castspider.ml",
+    "repository": "https://github.com/dalao3/h7h8j9",
+    "stack": "container"
+}
